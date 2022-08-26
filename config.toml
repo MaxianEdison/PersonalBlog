@@ -1,5 +1,5 @@
 # The URL the site will be built for
-base_url = "http://blog.maximilianedison.com"
+base_url = "https://blog.maximilianedison.com"
 
 # The site title and description; used in feeds by default.
 title = "Orhun's Blog"
