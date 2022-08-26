@@ -44,7 +44,7 @@ highlight_theme = "axar"
 render_emoji = false
 
 [extra]
-author = "Orhun Parmaksız"
+author = "Maximilian Edison"
 after_dark_menu = [
     { name = "Home", url = "$BASE_URL" },
     { name = "Categories", url = "$BASE_URL/categories" },
